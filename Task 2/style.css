@@ -52,6 +52,10 @@ span {
   color: red;
 }
 
+#experience{
+  cursor: pointer;
+}
+
 table {
   border: 1px solid black;
   margin-bottom: 1rem;
